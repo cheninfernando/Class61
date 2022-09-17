@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background:linear-gradient(white 0% , rgb(209, 159, 253) 100%) ;
+}
+.line{
+    height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: 8px auto;
+}
+img{
+    margin: 30px;
+    border-radius: 30px;
+}
+#chatbot{
+    margin:30px;
+}
+#app{
+    margin:30px;
+}
